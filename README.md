@@ -39,6 +39,10 @@ _Press the button Deploy to heroku and give the values for the config vars. 👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+  
+## RAILWAY deploy
+  
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fappu2006%2FFileStoreBot&envs=WEBHOOK%2CBOT_TOKEN%2CAPI_ID%2CDB_CHANNEL_ID%2CUPDATE_CHANNEL%2COWNER_ID%2CAPI_HASH%2CAUTH_USERS%2CIS_PRIVATE&optionalEnvs=UPDATE_CHANNEL%2CIS_PRIVATE&IS_PRIVATEDesc=type+True+If+you+want+the+bot+private&WEBHOOKDefault=ANYTHING&referralCode=akash2006)
 
 ## VPS Deploy : 
 
